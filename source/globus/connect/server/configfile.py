@@ -257,7 +257,7 @@ class ConfigFile(configparser.ConfigParser):
                         "Stevens Institute of Technology",
                         "Stony Brook University",
                         "Syracuse University",
-                        "Texas A &amp; M University",
+                        "Texas A & M University",
                         "Texas State University - San Marcos",
                         "Texas Tech University",
                         "The Broad Institute of MIT and Harvard",
